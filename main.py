@@ -779,7 +779,7 @@ if __name__ == '__main__':
 
     #data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\\Odeusis\\anoixti_pliros_e3art.txt"
     #data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\\Odeusis\\klisti_e3art.txt"
-    data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\\Odeusis\\anoixti_e3art.txt"
+    data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\\Odeusis\\demo_data.txt"
     #data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\\Odeusis\\real_data.txt"
     #data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\\Odeusis\\anoixti_e3art_TEST.txt"
     #data_file_name = "C:\\Users\\nikos\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\\Odeusis\\anoixti_e3art_test_me_endiamesa.txt"
